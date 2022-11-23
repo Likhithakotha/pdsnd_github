@@ -12,8 +12,11 @@ Bicycle-sharing systems allow users to rent bicycles on a very short-term basis 
 One can analyze the data of bikesharing system using this app.
 
 ### Files used
-Include the files used
+bikeshare.py
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+forked the repository from https://github.com/udacity/pdsnd_github
 
